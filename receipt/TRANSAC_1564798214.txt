@@ -1,0 +1,12 @@
+           *** CRIMSON BANKING OFFICIAL RECEIPT *** 
+
+
+  Date: 03-08-2019 10:10:14
+
+  Transaction ID       Account No     Transaction Type
+TRANSAC_1564798214     1561970477         Withdraw
+
+
+Withdrew Amount: P25000
+
+Current Balance: P2025700

@@ -1,0 +1,12 @@
+           *** CRIMSON BANKING OFFICIAL RECEIPT *** 
+
+
+  Date: 05-08-2019 14:29:21
+
+  Transaction ID       Account No     Transaction Type
+TRANSAC_1564986561     1564986506         Diposit
+
+
+Diposited Amount: P500000
+
+Current Balance: P650000
